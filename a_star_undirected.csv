@@ -1,0 +1,5 @@
+﻿source,target,weight,heuristic
+A,B,1,3
+A,C,2,3
+B,D,4,2
+C,D,1,1
